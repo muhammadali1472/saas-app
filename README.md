@@ -1,13 +1,17 @@
 # SaaS: Side Project
 
-This is a SaaS application that generates AI branding snippets and keywords for the customer's brand. 
-It is a full stack application, and created as a side kick project for how to create AI driven full-stack
-SaaS apps.
+This app generates snippets and keyword for any brand.
 
-I'm currently building two new Features:
+## Live DEMO
+https://saas-app-seven.vercel.app/
 
-- Generate Logo and Favicon with Keyword
-- Generate relevant Landing Page
+## Upcoming Features
+
+- Generate logos and favicon based on user Input. for e.g when user looks for coffee they will have logos suggestions as well
+- Logo Editor 
+- Generate relevant Landing Page.
+- Landing Page Editor 
+
 ## Tech Stack
 
 #### Backend Stack
