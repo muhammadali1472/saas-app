@@ -10,7 +10,7 @@ https://saas-app-seven.vercel.app/
 - Generate logos and favicon based on user Input. for e.g when user search for coffee they will have logos suggestions as well.
 - Logo Editor. 
 - Generate relevant Landing Page.
-- Landing Page Editor. WYISWYG.
+- Landing Page Editor. WYSIWYG.
 - API integration with Email marketing Softwares.
 
 ## Tech Stack
