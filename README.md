@@ -2,15 +2,16 @@
 
 This app generates snippets and keyword for any brand.
 
-## Live DEMO
+## Live Demo
 https://saas-app-seven.vercel.app/
 
 ## Upcoming Features
 
-- Generate logos and favicon based on user Input. for e.g when user looks for coffee they will have logos suggestions as well
-- Logo Editor 
+- Generate logos and favicon based on user Input. for e.g when user search for coffee they will have logos suggestions as well.
+- Logo Editor. 
 - Generate relevant Landing Page.
-- Landing Page Editor 
+- Landing Page Editor. WYISWYG.
+- API integration with Email marketing Softwares.
 
 ## Tech Stack
 
